@@ -1,0 +1,19 @@
+[general]
+name=GeoMag Processor
+qgisMinimumVersion=3.0
+description=Process polygon data with external Python environment
+version=0.1
+author=Your Name
+email=your@email.com
+
+about=Plugin to run geomagnetic calculations using external Python environments
+
+tracker=http://bugs
+repository=http://repo
+tags=python,processing,netcdf
+
+homepage=http://homepage
+category=Plugins
+icon=icon.png
+experimental=True
+deprecated=False

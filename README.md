@@ -1,0 +1,2 @@
+# curiesphere_qgis
+
